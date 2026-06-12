@@ -1,0 +1,14 @@
+lightning>=2.0
+matplotlib>=3.7
+numpy>=1.24
+pandas>=2.0
+pytorch-forecasting>=1.0
+requests>=2.28
+scikit-learn>=1.3
+scipy>=1.10
+tensorboard>=2.14
+tensorflow>=2.14
+torch>=2.0
+
+# Optional: recursive forecasting baselines from the ML notebook
+# skforecast>=0.12
