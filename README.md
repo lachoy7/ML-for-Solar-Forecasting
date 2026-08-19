@@ -1,4 +1,4 @@
-# ml-for-solar
+# Curriculum-Guided Reinforcement Learning with Self-Revision
 
 Class project for Stanford CS 229, Machine Learning, Winter 2025
 
