@@ -1,6 +1,6 @@
 # ml-for-solar
 
-Class project for Machine Learning, Winter 2025
+Class project for Stanford CS 229, Machine Learning, Winter 2025
 
 Forecast daily global horizontal irradiance (GHI) from weather and climate features using classical ML baselines and a Temporal Fusion Transformer (TFT).
 
