@@ -1,4 +1,4 @@
-# Curriculum-Guided Reinforcement Learning with Self-Revision
+# Predicting Long-term Daily Solar Radiation via Machine Learning
 
 Class project for Stanford CS 229, Machine Learning, Winter 2025
 
